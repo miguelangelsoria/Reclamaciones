@@ -20,8 +20,8 @@ public class Consultas extends Conexion{
         
                     
         try (
-             String consulta = "select * from usuarios where usuario = ? and pass = ?");
-      pst = getConexion().prepareStatement(consulta);
+             String Consulta = "select * from usuarios where usuario = ? and pass = ?");
+      pst = getConexion().prepareStatement(Consulta);
         pst.setString(1, usuario);
         pst.setString(2, contraseña);
            rs = pst.executeQuery();
