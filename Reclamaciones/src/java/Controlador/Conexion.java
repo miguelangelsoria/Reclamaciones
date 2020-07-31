@@ -17,12 +17,13 @@ import java.sql.SQLException;
 //estos son los atributos//
 public class Conexion {
     private String USERNAME = "root";
-    private String PASSWORD = "1234";
+    private String PASSWORD = "1Mvalera";
     private String HOST = "localhost";
     private String PORT = "3306";
     private String DATABASE = "Reclamaciones";
     private String CLASSNAME = "com.mysql,jdbc.Driver";
     private String URL = "jdbc:mysql://"+ HOST+":"+"/"+DATABASE;
+
     private Connection con;
     //este es el constructor//
     
