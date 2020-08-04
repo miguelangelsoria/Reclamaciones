@@ -1,3 +1,3 @@
-# Reclamacioneshttps://github.com/miguelangelsoria/Reclamaciones.wiki.git 
+# Reclamaciones
 Sistema de captura para reclamaciones de pago
 
