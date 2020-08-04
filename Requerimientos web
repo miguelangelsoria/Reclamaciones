@@ -41,4 +41,9 @@
             < input  type = " submit "  value = " registrador " />
         </ form >       
     </ cuerpo >
-</ html >
+</ html 
+
+
+<? versión xml = " 1.0 " codificación = " UTF-8 " ?>
+< Contexto  antiJARLocking = " true "  path = " / Reclamaciones " />
+
