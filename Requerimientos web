@@ -1,1 +1,18 @@
+ Pagina jsp
+<% - 
+    Documento: índice
+    Creado el: 30/07/2020, 09:12:10 PM
+    Autor: CEREBRO
+-%>
 
+<% @ page  contentType = " text / html "  pageEncoding = " UTF-8 " %>
+<! DOCTYPE html>
+< html >
+    < cabeza >
+        < meta  http-equiv = " Content-Type "  content = " text / html; charset = UTF-8 " >
+        < título > Página JSP </ título >
+    </ cabeza >
+    < cuerpo >
+        < h1 > ¡Hola mundo! </ h1 >
+    </ cuerpo >
+</ html >
