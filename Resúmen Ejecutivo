@@ -10,5 +10,6 @@ La solución
 
 Se desarrolla un aplicación  web que permita  realizar el registro  de forma efetiva asi como  la actualizacion  mediante la conexión a una base de datos  lo que permitira tener la información disponible de forma inmediata y   pudiendo actualizar  o consultar en cualquier momento y por varios usuarios a la vez.
 
+Arquitectura
 
-
+Por lo que respecta a la arquitectura del software  se  presenta un diagrama de la  solución.
