@@ -70,3 +70,62 @@ Se requiere instalar la aplicacion XAMPP que contiene PHPMYADMIN  que usara como
         </table>
     </database>
 </pma_xml_export>
+
+
+
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Text;
+namespace Reclamaciones
+{
+    #region Usuarios
+    public class Usuarios
+    {
+        #region Member Variables
+        protected int _idusuario;
+        protected string _usuario;
+        protected string _nombre;
+        protected string _apellido;
+        protected string _pass;
+        #endregion
+        #region Constructors
+        public Usuarios() { }
+        public Usuarios(string usuario, string nombre, string apellido, string pass)
+        {
+            this._usuario=usuario;
+            this._nombre=nombre;
+            this._apellido=apellido;
+            this._pass=pass;
+        }
+        #endregion
+        #region Public Properties
+        public virtual int Idusuario
+        {
+            get {return _idusuario;}
+            set {_idusuario=value;}
+        }
+        public virtual string Usuario
+        {
+            get {return _usuario;}
+            set {_usuario=value;}
+        }
+        public virtual string Nombre
+        {
+            get {return _nombre;}
+            set {_nombre=value;}
+        }
+        public virtual string Apellido
+        {
+            get {return _apellido;}
+            set {_apellido=value;}
+        }
+        public virtual string Pass
+        {
+            get {return _pass;}
+            set {_pass=value;}
+        }
+        #endregion
+    }
+    #endregion
+}
