@@ -16,3 +16,29 @@
         < h1 > ¡Hola mundo! </ h1 >
     </ cuerpo >
 </ html >
+
+
+
+<% @ page  contentType = " text / html "  pageEncoding = " UTF-8 " %>
+<! DOCTYPE html>
+< html >
+    < cabeza >
+        < meta  http-equiv = " Content-Type "  content = " text / html; charset = UTF-8 " >
+        < título > Registrarme </ título >
+    </ cabeza >
+    < cuerpo >
+        < h1 > Formulario de registro </ h1 >
+        < form  action = " text "  method = " post " >
+            < etiqueta > Usuario </ etiqueta >
+            < Entrada  tipo = " texto "  nombre = " usuario " /> < br > < br >
+            < etiqueta > Nombre </ etiqueta >
+            < Entrada  tipo = " texto "  nombre = " nombre " /> < br > < br >
+            < etiqueta > Apellido </ etiqueta >
+            < Entrada  tipo = " texto "  nombre = " Apellido " /> < br > < br >
+            < etiqueta > Contraseña </ etiqueta >
+            < Entrada  tipo = " texto "  nombre = " contraseña " /> < br > < br >
+            
+            < input  type = " submit "  value = " registrador " />
+        </ form >       
+    </ cuerpo >
+</ html >
