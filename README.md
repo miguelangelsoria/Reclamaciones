@@ -8,3 +8,8 @@ Se identifico que el principal problema es la  disponibilidad del sistema para p
 
 La solución que se implementa es el desarrollo de un sistema  en la web que permita esta interaction por parte de los usuaris para poder ingresar datos de manera continua y sin interrupciones .
 
+TABLA DE CONTENIDOS
+
+  1.- REQUERIMIENTOS
+  https://github.com/miguelangelsoria/Reclamaciones/blob/develop/Requerimientos
+  
