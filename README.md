@@ -14,4 +14,5 @@ TABLA DE CONTENIDOS
 https://github.com/miguelangelsoria/Reclamaciones/wiki/Requerimientos
 
 2.- INSTALACION
+https://github.com/miguelangelsoria/Reclamaciones/wiki/INSTALACION
 
