@@ -17,4 +17,5 @@ https://github.com/miguelangelsoria/Reclamaciones/wiki/Requerimientos
 https://github.com/miguelangelsoria/Reclamaciones/wiki/INSTALACION
 
 3.- CONFIGURACION
+https://github.com/miguelangelsoria/Reclamaciones/wiki/CONFIGURACION
 
