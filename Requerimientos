@@ -132,44 +132,6 @@ Class-Path: ../../modules/jspcaching-connector.jar ../../modules/javam
  /modules/annotation-framework.jar ../../modules/jboss-el-api_3.0_spec
  .jar ../../modules/jersey-media-json-processing.jar ../../modules/res
  ources-runtime.jar ../../modules/amx-core.jar ../../modules/glassfish
- -corba-csiv2-idl.jar ../../modules/glassfish-ee-api.jar ../../modules
- /ssl-impl.jar ../../modules/config-types.jar ../../modules/logging.ja
- r ../../modules/glassfish-hk2.zip ../../modules/simple-glassfish-api.
- jar ../../modules/tiger-types.jar ../../modules/cmp-utility.jar ../..
- /modules/cmp-support-ejb.jar ../../modules/org.osgi.core.jar ../../mo
- dules/tyrus-core.jar ../../modules/javamail-runtime.jar ../../modules
- /org.eclipse.persistence.oracle.jar ../../modules/jersey-guava.jar ..
- /../modules/asm-all-repackaged.jar ../../modules/javax.inject.jar ../
- ../modules/bean-validator-cdi.jar ../../modules/cluster-ssh.jar ../..
- /modules/jersey-gf-ejb.jar ../../modules/javax.enterprise.concurrent.
- jar ../../modules/weld-integration-fragment.jar ../../modules/contain
- er-common.jar ../../modules/org.eclipse.persistence.moxy.jar ../../mo
- dules/gf-connectors-connector.jar ../../modules/security-ee.jar ../..
- /modules/tyrus-container-grizzly-client.jar ../../modules/ejb-timer-s
- ervice-app.war ../../modules/glassfish-corba-base.zip ../../modules/w
- eb-cli.jar ../../modules/ant.jar ../../modules/connectors-inbound-run
- time.jar ../../modules/glassfish-naming.jar ../../modules/wstx-servic
- es.war ../../modules/ldapbp-repackaged.jar ../../modules/gf-jpa-conne
- ctor.jar ../../modules/schema2beans-repackaged.jar ../../modules/conn
- ectors-runtime.jar ../../modules/javax.mail-api.jar ../../modules/gla
- ssfish-nucleus.zip ../../modules/org.eclipse.persistence.antlr.jar ..
- /../modules/web-embed-api.jar ../../modules/web-core.jar ../../module
- s/common-util.jar ../../modules/jdbc-config.jar ../../modules/metro-g
- lue.jar ../../modules/web-sse.jar ../../modules/hk2-utils.jar ../../m
- odules/tyrus-container-glassfish-cdi.jar ../../modules/glassfish-jpa.
- zip ../../modules/jsf-connector.jar ../../modules/orb-enabler.jar ../
- ../modules/gmbal.jar ../../modules/pfl-basic-tools.jar ../../modules/
- javax.interceptor-api.jar ../../modules/web-gui-plugin-common.jar ../
- ../modules/jackson-core.jar ../../modules/javax.management.j2ee-api.j
- ar ../../modules/pfl-tf-tools.jar ../../modules/cmp-enhancer.jar ../.
- ./modules/pfl-asm.jar ../../modules/soap-tcp.jar ../../modules/weld-s
- pi.jar ../../modules/api-exporter.jar ../../modules/admin-util.jar ..
- /../modules/ejb-internal-api.jar ../../modules/schemas.zip ../../modu
- les/javax.ws.rs-api.jar ../../../javadb/lib/derby.jar ../../../javadb
- /lib/derbyclient.jar ../../../javadb/lib/derbynet.jar ../../../javadb
- /lib/derbytools.jar ../../../javadb/lib/derbyrun.jar ../../modules/en
- dorsed/javax.annotation-api.jar ../../modules/endorsed/jaxb-api.jar .
- ./../modules/endorsed/webservices-api-osgi.jar
-Bundle-SymbolicName: org.glassfish.embedded.static-shell
+ -corba-csiv2-idl.jar ../../modules/
 
 
