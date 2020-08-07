@@ -11,5 +11,4 @@ La solución que se implementa es el desarrollo de un sistema  en la web que per
 TABLA DE CONTENIDOS
 
   1.- REQUERIMIENTOS
-  https://github.com/miguelangelsoria/Reclamaciones/blob/develop/Requerimientos
-  
+    https://github.com/miguelangelsoria/Reclamaciones.wiki.git
